@@ -1,0 +1,14 @@
+{
+    "baseUri": "http://localhost:3001",
+    "port": 3001,
+    "domain": "localhost",
+    "mode": "production",
+    "version": "0.2.0",
+    "ogTitle": "OverSee-Fixed",
+    "ogDescription": "This is an instance of the OverSee - learn more at github.com/hydren-dev/OverSee",
+    "total_resources": {
+        "ram": 32000,
+        "cores": 4,
+        "disk": 10
+    }
+} 
